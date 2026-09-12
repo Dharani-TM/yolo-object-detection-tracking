@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+runs/
+
+# Large model files
+python/dasiamrpn_model.onnx
+python/dasiamrpn_kernel_r1.onnx
+python/dasiamrpn_kernel_cls1.onnx
+cpp/yolov8n.onnx
