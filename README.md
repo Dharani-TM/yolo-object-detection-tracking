@@ -4,7 +4,7 @@ A real-time object detection and tracking project implemented using **Python, YO
 
 I worked with the YOLO-based detection and tracking pipeline, configured the Python environment, installed the required libraries, executed the application, and tested real-time object detection using a webcam.
 
-## Project Overview
+## Overview
 
 This project combines **YOLO object detection** with **OpenCV object tracking** to provide real-time detection and tracking.
 YOLO identifies objects in the video frames, while tracking algorithms help maintain smooth object movement between detection frames.
