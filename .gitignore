@@ -4,7 +4,6 @@ __pycache__/
 *.pyo
 .env
 runs/
-
 # Large model files
 python/dasiamrpn_model.onnx
 python/dasiamrpn_kernel_r1.onnx
